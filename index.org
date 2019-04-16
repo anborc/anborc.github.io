@@ -1,0 +1,14 @@
+#+Title: An
+#+Author: anborc@gmail.com
+#+REVEAL_HLEVEL: 6
+#+OPTIONS: H:6 num:7 toc:2 num:nil reveal_center:nil reveal_control:t reveal_progress:t reveal_keyboard:t org-reveal-klipsify-src:non-nil  reveal_title_slide:nil
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: white2
+# #+REVEAL_INIT_SCRIPT: {src: "./reveal.js/plugin/toc-progress/toc-progress.js"}
+
+# #+SETUPFILE: ./org-html-themes/setup/theme-readtheorg.setup
+
+* planck.js 
+
+[[file:bridge.html][bridge]]
