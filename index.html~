@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>anborc@gmail.com</title>
-<!-- 2019-04-16 Tue 23:39 -->
+<title>An</title>
+<!-- 2019-04-16 Tue 23:40 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -192,7 +192,7 @@ $(function() {
 </head>
 <body>
 <div id="content" class="container">
-<div class="row"><div class="col-md-9"><h1 class="title">anborc@gmail.com</h1>
+<div class="row"><div class="col-md-9"><h1 class="title">An</h1>
 
 <div id="outline-container-sec-" class="outline-2">
 <h2 id="sec-">planck.js</h2>
@@ -212,7 +212,7 @@ $(function() {
 </div></div></div>
 <footer id="postamble" class="">
 <div><p class="author">Author: anborc@gmail.com</p>
-<p class="date">Created: 2019-04-16 Tue 23:39</p>
+<p class="date">Created: 2019-04-16 Tue 23:40</p>
 <p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 27.0.50 (<a href="http://orgmode.org">Org-mode</a> 8.3.3)</p>
 </div>
 </footer>
